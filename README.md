@@ -1,12 +1,20 @@
-# How to Use Generator
+# basic-token-generator
 
-When you run the program, you will be prompted to enter a number.
+## Authors
 
-Token Types:
-First - Totally Random
-Second - starts with MT
-Third - starts with NT
-Fourth - starts with MD
-Fifth - starts with NT
+Contributors names and contact info
 
-MT,NT,MD,NT usually issue rare tokens.
+karinca 
+[@karincaDiscord](https://twitter.com/karincaDiscord)
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the Apache 2.0 License - see the LICENSE.md file for details
